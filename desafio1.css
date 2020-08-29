@@ -1,0 +1,35 @@
+body
+{
+    background-color: #D17B0F;
+}
+
+#t2
+{
+    color:#36453B;
+}
+
+#t3
+{
+    color:#36453B;
+}
+
+.fundo
+{
+    background-color: #A7D3A6;
+    padding: 30px 30px;
+    margin: 30px;
+    border: 10px solid #DEE5E5 ;
+
+}
+
+p
+{
+    color: #333333;
+    background-color: white;
+}
+
+img
+{
+    margin-right: 30%;
+    margin-left: 30%;
+  }
